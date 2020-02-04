@@ -1,8 +1,11 @@
 /*
  * Searches NPM packages by search term using the npms.io API.
+ *
  * @see: https://api-docs.npms.io/
  * 
  * See the API docs to understand the below specified search result types.
+ * 
+ * @author: jforge
  */
 import axios from 'axios';
 
